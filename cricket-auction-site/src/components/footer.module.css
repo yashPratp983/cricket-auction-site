@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    margin: 2% 0%;
+    /* align-items: center; */
+    margin-left: 1%;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* 
+h1 {
+    margin: 0%;
+} */
+
+.components {
+    background-color: #1C1D1F;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0%;
+
+}
+
+.link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    transition: 0.3s ease-in-out;
+}

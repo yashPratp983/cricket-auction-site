@@ -1,0 +1,15 @@
+.header {
+    background-image: url("https://as2.ftcdn.net/v2/jpg/01/98/57/21/1000_F_198572137_ZaaT2TEs02uOJMVdRLF9447bdjPeln8B.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 1%;
+    height: 60vh;
+}
+
+img {
+    width: 100%;
+    height: 50rem;
+    /* z-index: 0;
+    overflow: hidden; */
+}

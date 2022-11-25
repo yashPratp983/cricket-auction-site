@@ -1,0 +1,71 @@
+.sponsor {
+    background-color: white;
+    height: 23rem;
+    margin: 0%;
+    padding: 0%;
+}
+
+img {
+    height: 120px;
+    width: 140px;
+}
+
+.bunch {
+    padding-top: 2%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    margin-top: 4%;
+
+}
+
+.tata {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.3%
+}
+
+.paytm img {
+    padding: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+.paytm {
+    border: solid grey;
+    border-radius: 25px;
+    border-width: thin;
+    width: 120px;
+}
+
+.ceat {
+    border: solid grey;
+    border-width: thin;
+    border-radius: 25px;
+    width: 120px;
+
+}
+
+.ceat img {
+    padding: 10px;
+    height: 30px;
+    width: 100px;
+
+}
+
+.aramco img {
+    width: 160px;
+    height: 60px;
+}
+
+h3:hover {
+    color: #ccffff;
+}

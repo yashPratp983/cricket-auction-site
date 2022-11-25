@@ -1,0 +1,68 @@
+.parent {
+    background-color: #fff;
+    margin: 2% 1.5%;
+}
+
+.images {
+    background-color: transparent;
+}
+
+.icons {
+    padding: 2% .5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.head {
+    display: flex;
+    justify-content: space-around;
+    margin: 1.5% 30%;
+    align-items: center;
+    color: #2b3e51;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sold {
+    display: flex;
+    justify-content: space-around;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2b3e51;
+    background-color: #ccffff;
+}
+
+.parent {
+    background-color: #fff;
+    margin: 2% 1.5%;
+    /* border-radius: 25px; */
+    border: solid #ccffff;
+}
+
+.team {
+    display: table;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.row {
+    display: table-row;
+    text-align: left;
+    margin-bottom: 3%;
+}
+
+.cell {
+    display: table-cell;
+    width: 25%;
+    border-bottom: solid #ccffff;
+
+
+}
+
+.heading {
+    width: 25%;
+    align-items: center;
+    text-align: center;
+}
